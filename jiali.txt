@@ -4,4 +4,9 @@
 2222
 >>>>>>> dev
 3333
+<<<<<<< HEAD
 vim in the master
+=======
+vim in the feature1
+>>>>>>> feature1
+creating a new branch is quick and simple
