@@ -9,4 +9,4 @@ vim in the master
 =======
 vim in the feature1
 >>>>>>> feature1
-creating a new branch is quick and simple
+creating a new branch is quick and simple job
